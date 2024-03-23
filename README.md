@@ -1,6 +1,11 @@
 
 # SSHFS
 
+## revise version
+
+This is a revised version created by 2024 Duke ECE566 Group6, we are trying to add more features and improve this ssh file system transmission speed, as well as fixing some bugs on this project.
+
+
 
 ## About
 
